@@ -1,8 +1,8 @@
 
 import React from 'react';
 import windIcon from '../assets/Wind.png';
-import humidityIcon from '../assets/Humidity.png';
-import visibilityIcon from '../assets/Visibility.png';
+import humidityIcon from '../assets/humidity.png';
+import visibilityIcon from '../assets/visibility.png';
 import sunriseIcon from '../assets/Sunrise.png';
 import sunsetIcon from '../assets/Sunset.png';
 
